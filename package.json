@@ -1,0 +1,29 @@
+{
+    "name": "cakes-ecommerce-recomendations-with-ml",
+    "version": "1.0.0",
+    "description": "Sistema de recomendação de bolos para e-commerce com TensorFlow.js (Aula 7 da Unidade 3)",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node server/server.js",
+        "start:static": "browser-sync -w . --server --files 'index.html, data/*.json, src/**/*.js' --port 3000",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ecommerce",
+        "tensorflow",
+        "recommendation",
+        "javascript"
+    ],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "browser-sync": "^3.0.4"
+    },
+    "engines": {
+        "node": ">=22.13"
+    },
+    "dependencies": {
+        "sqlite-vec": "^0.1.9"
+    }
+}

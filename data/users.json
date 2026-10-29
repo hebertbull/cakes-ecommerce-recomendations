@@ -1,0 +1,436 @@
+[
+    {
+        "id": 1,
+        "name": "Larissa Mendes",
+        "age": 19,
+        "purchases": [
+            {
+                "id": 1,
+                "name": "Bolo de Chocolate Belga",
+                "category": "chocolate",
+                "price": 89.99,
+                "color": "marrom"
+            },
+            {
+                "id": 3,
+                "name": "Bolo Vulcão de Chocolate",
+                "category": "chocolate",
+                "price": 79.99,
+                "color": "marrom"
+            },
+            {
+                "id": 4,
+                "name": "Red Velvet",
+                "category": "gourmet",
+                "price": 99.99,
+                "color": "vermelho"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Pedro Henrique",
+        "age": 21,
+        "purchases": [
+            {
+                "id": 1,
+                "name": "Bolo de Chocolate Belga",
+                "category": "chocolate",
+                "price": 89.99,
+                "color": "marrom"
+            },
+            {
+                "id": 2,
+                "name": "Brigadeiro Gigante",
+                "category": "chocolate",
+                "price": 64.99,
+                "color": "marrom"
+            },
+            {
+                "id": 3,
+                "name": "Bolo Vulcão de Chocolate",
+                "category": "chocolate",
+                "price": 79.99,
+                "color": "marrom"
+            },
+            {
+                "id": 16,
+                "name": "Bolo de Doce de Leite",
+                "category": "gourmet",
+                "price": 89.99,
+                "color": "bege"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Júlia Castro",
+        "age": 23,
+        "purchases": [
+            {
+                "id": 4,
+                "name": "Red Velvet",
+                "category": "gourmet",
+                "price": 99.99,
+                "color": "vermelho"
+            },
+            {
+                "id": 14,
+                "name": "Cheesecake de Goiabada",
+                "category": "gourmet",
+                "price": 94.99,
+                "color": "rosa"
+            },
+            {
+                "id": 20,
+                "name": "Bolo de Aniversário Unicórnio",
+                "category": "gourmet",
+                "price": 149.99,
+                "color": "rosa"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Gabriel Rocha",
+        "age": 24,
+        "purchases": [
+            {
+                "id": 2,
+                "name": "Brigadeiro Gigante",
+                "category": "chocolate",
+                "price": 64.99,
+                "color": "marrom"
+            },
+            {
+                "id": 3,
+                "name": "Bolo Vulcão de Chocolate",
+                "category": "chocolate",
+                "price": 79.99,
+                "color": "marrom"
+            },
+            {
+                "id": 1,
+                "name": "Bolo de Chocolate Belga",
+                "category": "chocolate",
+                "price": 89.99,
+                "color": "marrom"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Beatriz Lopes",
+        "age": 26,
+        "purchases": [
+            {
+                "id": 14,
+                "name": "Cheesecake de Goiabada",
+                "category": "gourmet",
+                "price": 94.99,
+                "color": "rosa"
+            },
+            {
+                "id": 15,
+                "name": "Bolo de Pistache",
+                "category": "gourmet",
+                "price": 129.99,
+                "color": "verde"
+            },
+            {
+                "id": 4,
+                "name": "Red Velvet",
+                "category": "gourmet",
+                "price": 99.99,
+                "color": "vermelho"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Rafael Souza",
+        "age": 29,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Naked Cake de Frutas Vermelhas",
+                "category": "frutas",
+                "price": 109.99,
+                "color": "vermelho"
+            },
+            {
+                "id": 6,
+                "name": "Bolo de Morango com Chantilly",
+                "category": "frutas",
+                "price": 84.99,
+                "color": "rosa"
+            },
+            {
+                "id": 7,
+                "name": "Torta de Limão",
+                "category": "frutas",
+                "price": 69.99,
+                "color": "verde"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Camila Torres",
+        "age": 32,
+        "purchases": [
+            {
+                "id": 6,
+                "name": "Bolo de Morango com Chantilly",
+                "category": "frutas",
+                "price": 84.99,
+                "color": "rosa"
+            },
+            {
+                "id": 8,
+                "name": "Bolo de Abacaxi com Coco",
+                "category": "frutas",
+                "price": 74.99,
+                "color": "amarelo"
+            },
+            {
+                "id": 14,
+                "name": "Cheesecake de Goiabada",
+                "category": "gourmet",
+                "price": 94.99,
+                "color": "rosa"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Marcos Vieira",
+        "age": 35,
+        "purchases": [
+            {
+                "id": 9,
+                "name": "Bolo de Cenoura com Chocolate",
+                "category": "tradicional",
+                "price": 54.99,
+                "color": "laranja"
+            },
+            {
+                "id": 10,
+                "name": "Bolo de Fubá",
+                "category": "tradicional",
+                "price": 39.99,
+                "color": "amarelo"
+            },
+            {
+                "id": 11,
+                "name": "Bolo de Laranja",
+                "category": "tradicional",
+                "price": 44.99,
+                "color": "laranja"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Fernanda Lima",
+        "age": 38,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Naked Cake de Frutas Vermelhas",
+                "category": "frutas",
+                "price": 109.99,
+                "color": "vermelho"
+            },
+            {
+                "id": 7,
+                "name": "Torta de Limão",
+                "category": "frutas",
+                "price": 69.99,
+                "color": "verde"
+            },
+            {
+                "id": 16,
+                "name": "Bolo de Doce de Leite",
+                "category": "gourmet",
+                "price": 89.99,
+                "color": "bege"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Thiago Barros",
+        "age": 40,
+        "purchases": [
+            {
+                "id": 9,
+                "name": "Bolo de Cenoura com Chocolate",
+                "category": "tradicional",
+                "price": 54.99,
+                "color": "laranja"
+            },
+            {
+                "id": 13,
+                "name": "Bolo Formigueiro",
+                "category": "tradicional",
+                "price": 47.99,
+                "color": "marrom"
+            },
+            {
+                "id": 12,
+                "name": "Bolo de Coco",
+                "category": "tradicional",
+                "price": 49.99,
+                "color": "branco"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Marta Oliveira",
+        "age": 58,
+        "purchases": [
+            {
+                "id": 10,
+                "name": "Bolo de Fubá",
+                "category": "tradicional",
+                "price": 39.99,
+                "color": "amarelo"
+            },
+            {
+                "id": 11,
+                "name": "Bolo de Laranja",
+                "category": "tradicional",
+                "price": 44.99,
+                "color": "laranja"
+            },
+            {
+                "id": 12,
+                "name": "Bolo de Coco",
+                "category": "tradicional",
+                "price": 49.99,
+                "color": "branco"
+            },
+            {
+                "id": 13,
+                "name": "Bolo Formigueiro",
+                "category": "tradicional",
+                "price": 47.99,
+                "color": "marrom"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Antônio Pereira",
+        "age": 62,
+        "purchases": [
+            {
+                "id": 10,
+                "name": "Bolo de Fubá",
+                "category": "tradicional",
+                "price": 39.99,
+                "color": "amarelo"
+            },
+            {
+                "id": 12,
+                "name": "Bolo de Coco",
+                "category": "tradicional",
+                "price": 49.99,
+                "color": "branco"
+            },
+            {
+                "id": 13,
+                "name": "Bolo Formigueiro",
+                "category": "tradicional",
+                "price": 47.99,
+                "color": "marrom"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Helena Duarte",
+        "age": 47,
+        "purchases": [
+            {
+                "id": 17,
+                "name": "Bolo Fit de Banana e Aveia",
+                "category": "fit",
+                "price": 59.99,
+                "color": "bege"
+            },
+            {
+                "id": 19,
+                "name": "Bolo Vegano de Cenoura",
+                "category": "fit",
+                "price": 62.99,
+                "color": "laranja"
+            },
+            {
+                "id": 11,
+                "name": "Bolo de Laranja",
+                "category": "tradicional",
+                "price": 44.99,
+                "color": "laranja"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Roberto Alves",
+        "age": 52,
+        "purchases": [
+            {
+                "id": 9,
+                "name": "Bolo de Cenoura com Chocolate",
+                "category": "tradicional",
+                "price": 54.99,
+                "color": "laranja"
+            },
+            {
+                "id": 10,
+                "name": "Bolo de Fubá",
+                "category": "tradicional",
+                "price": 39.99,
+                "color": "amarelo"
+            },
+            {
+                "id": 18,
+                "name": "Bolo Fit de Cacau sem Açúcar",
+                "category": "fit",
+                "price": 64.99,
+                "color": "marrom"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Patrícia Gomes",
+        "age": 45,
+        "purchases": [
+            {
+                "id": 17,
+                "name": "Bolo Fit de Banana e Aveia",
+                "category": "fit",
+                "price": 59.99,
+                "color": "bege"
+            },
+            {
+                "id": 18,
+                "name": "Bolo Fit de Cacau sem Açúcar",
+                "category": "fit",
+                "price": 64.99,
+                "color": "marrom"
+            },
+            {
+                "id": 19,
+                "name": "Bolo Vegano de Cenoura",
+                "category": "fit",
+                "price": 62.99,
+                "color": "laranja"
+            }
+        ]
+    }
+]

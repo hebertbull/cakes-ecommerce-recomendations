@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Bolo de Chocolate Belga",
+        "category": "chocolate",
+        "price": 89.99,
+        "color": "marrom"
+    },
+    {
+        "id": 2,
+        "name": "Brigadeiro Gigante",
+        "category": "chocolate",
+        "price": 64.99,
+        "color": "marrom"
+    },
+    {
+        "id": 3,
+        "name": "Bolo Vulcão de Chocolate",
+        "category": "chocolate",
+        "price": 79.99,
+        "color": "marrom"
+    },
+    {
+        "id": 4,
+        "name": "Red Velvet",
+        "category": "gourmet",
+        "price": 99.99,
+        "color": "vermelho"
+    },
+    {
+        "id": 5,
+        "name": "Naked Cake de Frutas Vermelhas",
+        "category": "frutas",
+        "price": 109.99,
+        "color": "vermelho"
+    },
+    {
+        "id": 6,
+        "name": "Bolo de Morango com Chantilly",
+        "category": "frutas",
+        "price": 84.99,
+        "color": "rosa"
+    },
+    {
+        "id": 7,
+        "name": "Torta de Limão",
+        "category": "frutas",
+        "price": 69.99,
+        "color": "verde"
+    },
+    {
+        "id": 8,
+        "name": "Bolo de Abacaxi com Coco",
+        "category": "frutas",
+        "price": 74.99,
+        "color": "amarelo"
+    },
+    {
+        "id": 9,
+        "name": "Bolo de Cenoura com Chocolate",
+        "category": "tradicional",
+        "price": 54.99,
+        "color": "laranja"
+    },
+    {
+        "id": 10,
+        "name": "Bolo de Fubá",
+        "category": "tradicional",
+        "price": 39.99,
+        "color": "amarelo"
+    },
+    {
+        "id": 11,
+        "name": "Bolo de Laranja",
+        "category": "tradicional",
+        "price": 44.99,
+        "color": "laranja"
+    },
+    {
+        "id": 12,
+        "name": "Bolo de Coco",
+        "category": "tradicional",
+        "price": 49.99,
+        "color": "branco"
+    },
+    {
+        "id": 13,
+        "name": "Bolo Formigueiro",
+        "category": "tradicional",
+        "price": 47.99,
+        "color": "marrom"
+    },
+    {
+        "id": 14,
+        "name": "Cheesecake de Goiabada",
+        "category": "gourmet",
+        "price": 94.99,
+        "color": "rosa"
+    },
+    {
+        "id": 15,
+        "name": "Bolo de Pistache",
+        "category": "gourmet",
+        "price": 129.99,
+        "color": "verde"
+    },
+    {
+        "id": 16,
+        "name": "Bolo de Doce de Leite",
+        "category": "gourmet",
+        "price": 89.99,
+        "color": "bege"
+    },
+    {
+        "id": 17,
+        "name": "Bolo Fit de Banana e Aveia",
+        "category": "fit",
+        "price": 59.99,
+        "color": "bege"
+    },
+    {
+        "id": 18,
+        "name": "Bolo Fit de Cacau sem Açúcar",
+        "category": "fit",
+        "price": 64.99,
+        "color": "marrom"
+    },
+    {
+        "id": 19,
+        "name": "Bolo Vegano de Cenoura",
+        "category": "fit",
+        "price": 62.99,
+        "color": "laranja"
+    },
+    {
+        "id": 20,
+        "name": "Bolo de Aniversário Unicórnio",
+        "category": "gourmet",
+        "price": 149.99,
+        "color": "rosa"
+    }
+]
